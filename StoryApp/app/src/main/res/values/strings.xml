@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="failed">Register Failed</string>
+    <string name="password_too_short">Password too short</string>
+    <string name="password_minimum_character">Password must be at least 8 characters</string>
+    <string name="message_welcome_page">Welcome! Start Your Journey with Us</string>
+    <string name="title_welcome_page">Welcome to Story App!</string>
+    <string name="title_signup_page">Please complete your data first!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please complete your data first!</string>
+    <string name="title_login_page">Start Your Story Now</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="description_hint">Description</string>
+    <string name="empty_img_warning">Please insert your picture first!</string>
+    <string name="complete_data_first">Please complete your data first!</string>
+    <string name="wohoo">Wohoo!</string>
+    <string name="register_success">You have successfully registered.To continue, please Login first!</string>
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="list_story_empty">Story list is empty</string>
+    <string name="email_or_password_cannot_empty">Email or password cannot be empty.</string>
+    <string name="success_logged_in">You have successfully logged in. Excited to share your stories?</string>
+    <string name="continues">Continue</string>
+    <string name="password_min_8">Minimum password is 8 characters</string>
+    <string name="email_not_valid">Email not valid!</string>
+    <string name="change_language">Change Language</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="include_location">Include Location</string>
+    <string name="retry">retry\n</string>
+    <string name="open">Open Maps</string>
+    <string name="invalid_email_format">Invalid email format</string>
+    <string name="google_map_api_key">AIzaSyCV-XWsaVnxaJBqo4-q2Ni9yEz22h1Z8HE</string>
+
+
+</resources>
