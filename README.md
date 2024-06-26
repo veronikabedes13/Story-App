@@ -14,4 +14,4 @@ Kelas ini merupakan langkah ke-empat Anda untuk menjadi Android Developer.
 - Submission (proyek akhir) berupa sebuah aplikasi Android bertema story app yang dapat digunakan untuk berbagi foto dengan menerapkan Paging.
 
 ## Sertifikat 
-<img src="https://github.com/veronikabedes13/Submission-Akhir-Aplikasi-Story-App-/assets/148755512/b04f3607-c98b-4f9b-8334-06fb0f115a69" style="width:100px;"/>
+<img src="https://github.com/veronikabedes13/Submission-Akhir-Aplikasi-Story-App-/assets/148755512/b04f3607-c98b-4f9b-8334-06fb0f115a69" style="width:300px;"/>
